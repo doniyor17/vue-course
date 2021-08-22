@@ -1,0 +1,7 @@
+VS code extensions |> live server, emmet, vetur
+
+1. Vue JS ni ulash |> installation, cdn
+
+2. Vue JS ni ishga tushirish |> #el, data
+
+3. Vue JS bilan birinchi loyiha |> Hello world project, interpolation
